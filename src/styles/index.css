@@ -221,12 +221,15 @@ section {
     justify-content: center;
 }
 
-.vários {
-    color: coral;
-    font-weight: 100;
-}
-.container1 {
+section > span > h2 {
     display: flex;
-    justify-content: center;
+    font-size: 64px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
+
+.herotitle {
+    color: 
+    #ED4D1B;
+}
+
