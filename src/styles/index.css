@@ -194,3 +194,18 @@ section > button {
 }
 
 
+<<<<<<< HEAD
+=======
+section > span > h2 {
+    display: flex;
+    font-size: 66px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.herotitle {
+    color: 
+    #ED4D1B;
+}
+
+>>>>>>> 6721537609c290149de904b7d42766e3869fee8f
